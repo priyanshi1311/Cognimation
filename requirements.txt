@@ -1,0 +1,20 @@
+# For Cerebras API
+cerebras-cloud-sdk
+python-dotenv
+
+# For Stability AI API
+requests
+
+# For Local Animation Generation
+torch
+diffusers
+transformers
+accelerate
+safetensors
+
+# For image handling
+Pillow
+
+# For the Web Server
+Flask
+Flask-Cors
