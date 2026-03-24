@@ -1,4 +1,12 @@
 Cognimation - AI Virtual Tutor
+<img width="1910" height="1033" alt="1" src="https://github.com/user-attachments/assets/2fdd6348-abfc-4b94-a87c-3e15305f0ecf" />
+
+<img width="1918" height="1032" alt="2" src="https://github.com/user-attachments/assets/bf241967-60d5-40b8-b8f6-95e26fb1452b" />
+
+![3](https://github.com/user-attachments/assets/a3e77eff-e2b1-4863-bb3d-349ba578b82b)
+
+
+
 > **Experience learning like never before with an interactive 3D companion.**
 Cognimation is a next-generation virtual tutor application that transforms voice queries into immersive educational experiences. By combining a 3D interactive interface with Generative AI, it provides detailed text explanations and visualizes concepts in real-time.
 
